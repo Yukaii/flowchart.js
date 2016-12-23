@@ -4,9 +4,6 @@
   "version": "1.6.1",
   "main": "./index",
   "private": false,
-  "engines": {
-    "node": "~v0.4.12"
-  },
   "dependencies": {
     "raphael": "git://github.com/DmitryBaranovskiy/raphael.git"
   },
